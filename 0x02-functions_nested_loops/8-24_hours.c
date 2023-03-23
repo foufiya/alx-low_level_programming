@@ -5,7 +5,7 @@
  *
  * Return: no return
  */
-int jack_bauer(void)
+void jack_bauer(void)
 {
 	int a, b, c, d;
 
@@ -24,7 +24,7 @@ int jack_bauer(void)
 					_putchar(58);
 					_putchar(c + 48);
 					_putchar(d + 48);
-					_putcha('\n');
+					_putchar('\n');
 				}
 			}
 		}
